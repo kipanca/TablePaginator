@@ -1,0 +1,6 @@
+framework module Pods_TablePaginator_Tests {
+  umbrella header "Pods-TablePaginator_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

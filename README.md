@@ -22,7 +22,7 @@ pod 'TablePaginator'
 
 ## Author
 
-Alex Kisel, alexander.kisel@brander.ua
+Alex Kisel, kipanca7@gmail.com
 
 ## License
 

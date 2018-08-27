@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.7.3)
+  - MulticastDelegateKit (1.0.0)
+  - TablePaginator (1.0.0):
+    - MulticastDelegateKit (~> 1.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - MulticastDelegateKit
+  - TablePaginator (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - MulticastDelegateKit
+
+EXTERNAL SOURCES:
+  TablePaginator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  MulticastDelegateKit: b5a82cec1a896873aeabebedbb14463955d556dd
+  TablePaginator: 8743d1ff4a13d59a228e35b6f76c9e2cf80d2047
+
+PODFILE CHECKSUM: 65ee2467985c272486a2b6f29648806f9ec6f44b
+
+COCOAPODS: 1.5.2

@@ -1,0 +1,6 @@
+framework module TablePaginator {
+  umbrella header "TablePaginator-umbrella.h"
+
+  export *
+  module * { export * }
+}

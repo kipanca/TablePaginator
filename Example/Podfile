@@ -2,6 +2,8 @@ use_frameworks!
 
 target 'TablePaginator_Example' do
   pod 'TablePaginator', :path => '../'
+  pod 'Alamofire'
+  pod 'MulticastDelegateKit'
 
   target 'TablePaginator_Tests' do
     inherit! :search_paths

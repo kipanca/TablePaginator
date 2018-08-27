@@ -1,0 +1,6 @@
+framework module MulticastDelegateKit {
+  umbrella header "MulticastDelegateKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
