@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TablePaginator_Example' do
+  pod 'TablePaginator', :path => '../'
+
+  target 'TablePaginator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
