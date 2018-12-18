@@ -1,6 +1,6 @@
 # TablePaginator
 
-[![CI Status](https://img.shields.io/travis/Alex Kisel/TablePaginator.svg?style=flat)](https://travis-ci.org/Alex Kisel/TablePaginator)
+[![CI Status](https://img.shields.io/travis/elano50/TablePaginator.svg?style=flat)](https://travis-ci.org/elano50/TablePaginator)
 [![Version](https://img.shields.io/cocoapods/v/TablePaginator.svg?style=flat)](https://cocoapods.org/pods/TablePaginator)
 [![License](https://img.shields.io/cocoapods/l/TablePaginator.svg?style=flat)](https://cocoapods.org/pods/TablePaginator)
 [![Platform](https://img.shields.io/cocoapods/p/TablePaginator.svg?style=flat)](https://cocoapods.org/pods/TablePaginator)
