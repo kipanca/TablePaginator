@@ -4,6 +4,7 @@
 [![Version](https://img.shields.io/cocoapods/v/TablePaginator.svg?style=flat)](https://cocoapods.org/pods/TablePaginator)
 [![License](https://img.shields.io/cocoapods/l/TablePaginator.svg?style=flat)](https://cocoapods.org/pods/TablePaginator)
 [![Platform](https://img.shields.io/cocoapods/p/TablePaginator.svg?style=flat)](https://cocoapods.org/pods/TablePaginator)
+![Swift](https://img.shields.io/badge/%20in-swift%204.2-orange.svg)
 
 ## Example
 
